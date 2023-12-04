@@ -1,0 +1,45 @@
+#main .container {
+  background-color: rgb(236, 236, 236);
+}
+
+.wrapper-main {
+  padding: 40px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.title-theme {
+  max-width: 700px;
+  border-bottom: 3px solid #0964a3;
+  padding: 0 0 20px 0;
+  line-height: 35px;
+}
+
+.section-gap {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  line-height: 22px;
+  text-align: justify;
+}
+
+.ul-styles {
+  padding-left: 20px;
+}
+
+.ul-styles li {
+  color: red;
+}
+
+.ul-styles li span {
+  color: black;
+}
+
+.key-paragrapgh {
+  background-color: lightcoral;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #f2f2f2;
+}
